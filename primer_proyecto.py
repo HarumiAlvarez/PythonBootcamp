@@ -1,1 +1,6 @@
-print("Me encanta estudiar Pyton")
+print("Hola"+ " " +"Fede")
+print("Me llamo \"Regina\"")
+print("esta es una linea\ny esta es otra linea")
+print("\testa es la cuarta linea")
+print("This isn\'t a number")
+print('Este signo \\ es una barra invertida')
